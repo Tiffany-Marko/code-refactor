@@ -3,3 +3,4 @@ This page is intended to improve accessibility for those with disabilities to an
 
 ## Description
 This project updates an existing codebase to add clarity and flow to the customer's website.
+![mobile responsive](./assets/images/pic%201.png) 
